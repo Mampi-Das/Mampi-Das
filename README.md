@@ -1,12 +1,8 @@
-# Hi, I'm Mampi Das 
+# Hi, I'm Mampi Das 👋
 
 ## About Me
 
-I am an undergraduate Electrical Engineering student at the National Institute of Technology Agartala.
-
-I am passionate about understanding electrical systems, solving engineering problems, and applying technology to real-world challenges. Alongside my core studies, I have developed interests in data analytics, programming, and engineering-focused projects that combine analytical thinking with practical implementation.
-
-I believe in continuous learning and enjoy exploring both the theoretical and practical aspects of engineering.
+Electrical Engineering undergraduate at the National Institute of Technology Agartala with interests in Electrical Engineering, Data Analytics, and Problem Solving. I enjoy applying engineering principles and analytical thinking to solve real-world challenges while continuously learning and building practical skills.
 
 ---
 
@@ -17,85 +13,50 @@ National Institute of Technology Agartala
 
 ---
 
-## Technical Skills
+## Skills
 
-### Electrical Engineering
-- Circuit Analysis
-- Electrical Machines
-- Power Systems
-- Power Electronics
-- Electrical Measurements
+**Electrical Engineering:** Circuit Analysis, Electrical Machines, Power Systems, Power Electronics, Control System
 
-### Programming Languages
-- C
-- C++
-- Python
+**Programming:** C, C++, Python
 
-### Web Technologies
-- HTML
-- CSS
-- JavaScript
+**Web Technologies:** HTML, CSS, JavaScript(In progress)
 
-### Data Analytics
-- Microsoft Excel
-- Power BI
-- Tableau
-- Pandas
-- NumPy
-- Data Visualization
+**Data Analytics:** Excel, Power BI, Tableau, Pandas, NumPy, MySQL
 
-### Databases
-- MySQL
-
-### Engineering & Development Tools
-- MATLAB
-- Arduino Uno
-- Tinkercad
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
+**Tools:** MATLAB, Arduino Uno, Tinkercad, Git, GitHub, VS Code, Jupyter Notebook
 
 ---
 
 ## Areas of Interest
 
-- Electrical Engineering
-- Power Systems
-- Power Electronics
-- Data Analytics
-- Embedded Systems
-- Engineering Applications of Programming
-- Problem Solving
+
+Power systems, data analytics, embedded systems, and technology-driven solutions to real-world engineering problems.
 
 ---
 
-## Coding & Professional Profiles
+## Profiles
 
-- **LinkedIn:** https://www.linkedin.com/in/mampi-das-49452b309/
-- **LeetCode:** https://leetcode.com/u/Mampi_Das_11/
-- **GeeksforGeeks:** https://www.geeksforgeeks.org/profile/mampiknz0r5
-- **HackerRank:** https://www.hackerrank.com/profile/mampiknowsyou
+🔗 LeetCode: https://leetcode.com/u/Mampi_Das_11/  
+🔗 GeeksforGeeks: https://www.geeksforgeeks.org/profile/mampiknz0r5  
+🔗 HackerRank: https://www.hackerrank.com/profile/mampiknowsyou  
+🔗 LinkedIn: https://www.linkedin.com/in/mampi-das-49452b309/
 
 ---
 
 ## Current Focus
 
-- Strengthening core Electrical Engineering concepts
-- Building engineering-oriented projects
-- Developing skills in MATLAB and Data Analytics
-- Applying technology to solve practical engineering problems
-- Enhancing problem-solving abilities through programming
+Strengthening core electrical engineering concepts while building practical projects and developing analytical skills.
 
 ---
 
 ## Beyond Academics
 
-Outside academics, I enjoy reading, journaling, exploring emerging technologies, and working on self-improvement. These activities help me stay motivated, think critically, and approach challenges with a growth mindset.
+Beyond engineering, I enjoy reading, journaling, and exploring new ideas that inspire continuous learning and personal growth.
 
 ---
 
 *"Committed to continuous growth through patience, resilience, and consistent effort."*
+
 
 
 
