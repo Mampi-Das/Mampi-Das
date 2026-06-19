@@ -36,10 +36,13 @@ Power systems, data analytics, embedded systems, and technology-driven solutions
 
 ## Profiles
 
-🔗 LeetCode: https://leetcode.com/u/Mampi_Das_11/  
-🔗 GeeksforGeeks: https://www.geeksforgeeks.org/profile/mampiknz0r5  
-🔗 HackerRank: https://www.hackerrank.com/profile/mampiknowsyou  
-🔗 LinkedIn: https://www.linkedin.com/in/mampi-das-49452b309/
+🔗 [LeetCode](https://leetcode.com/u/Mampi_Das_11/)
+
+🔗 [GeeksforGeeks](https://www.geeksforgeeks.org/profile/mampiknz0r5)
+
+🔗 [HackerRank](https://www.hackerrank.com/profile/mampiknowsyou)
+
+🔗 [LinkedIn](https://www.linkedin.com/in/mampi-das-49452b309/)
 
 ---
 
