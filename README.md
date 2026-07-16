@@ -31,8 +31,9 @@
 
 ### 📊 Data Analytics
 
-<p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,tableau,mysql,pandas,numpy,matplotlib,seaborn,excel" />
+<p align="left">
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=tableau,mysql,pandas,numpy,matplotlib,seaborn,excel" />
 </p>
 
 ### 🌐 Web Development
@@ -89,6 +90,7 @@
 <img src="https://cdn.simpleicons.org/gmail/EA4335" height="45"/>
 </a>
 </p>
+
 ---
 
 
