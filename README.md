@@ -45,7 +45,21 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
 </p>
 ---
+## 🌐 Profiles
+<p align="left">
+  <a href="https://leetcode.com/u/Mampi_Das_11/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
 
+  <a href="https://www.geeksforgeeks.org/profile/mampiknz0r5/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/mampiknowsyou" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+</p>
+---
 
 
 ## 📬 Connect with Me
