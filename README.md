@@ -66,20 +66,33 @@
 
 ## 🌐 Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mampi_Das_11/)
+<p align="left">
+  <a href="https://leetcode.com/u/Mampi_Das_11/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
 
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/mampiknz0r5/)
+  <a href="https://www.geeksforgeeks.org/profile/mampiknz0r5/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mampiknowsyou)
+  <a href="https://www.hackerrank.com/profile/mampiknowsyou" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+</p>
 
 ---
 
 ## 📬 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mampi%20Das-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mampi-das-49452b309/)
+<p align="left">
+<a href="https://www.linkedin.com/in/mampi-das-49452b309/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
 
-[![Gmail](https://img.shields.io/badge/Gmail-mampiknowsyou%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mampiknowsyou@gmail.com)
-
+<a href="mailto:mampiknowsyou@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" height="45"/>
+</a>
+</p>
 ---
 
 
