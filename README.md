@@ -32,7 +32,7 @@
 ### 📊 Data Analytics
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="48"/>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=tableau,mysql,pandas,numpy,matplotlib,seaborn,excel" />
 </p>
 
