@@ -30,7 +30,7 @@
 ### 📊 Data Analytics
 
 <p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,tableau,mysql,pandas,numpy,excel" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,tableau,mysql,pandas,matplotlib,seaborn,numpy,excel" />
 </p>
 
 ### 🌐 Web Development
