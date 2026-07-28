@@ -10,7 +10,7 @@
 - ⚡ Completed industrial training at **NEEPCO**, **ONGC**, and **Tripura State Electricity Corporation Limited (TSECL)**.
 - 🔌 Passionate about **Power Systems, Electrical Machines, Renewable Energy Technologies, and Smart Energy Solutions**.
 - 📊 Enthusiastic about **Data Analytics**, leveraging data-driven insights to improve engineering and business decision-making.
-- 💻 Continuously expanding my skills in **Power BI, SQL, Python, and Web Development** while strengthening my core electrical engineering fundamentals.
+- 💻 Continuously expanding my skills in **Power BI, SQL, Python, and Web Development** while strengthening my core **Electrical Engineering fundamentals**.
 - 🌱 Always eager to learn, build impactful projects, and contribute to solving real-world engineering challenges.
 
 ---
